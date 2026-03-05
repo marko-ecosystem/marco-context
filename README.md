@@ -1,4 +1,4 @@
-#  Marko Context (MCF)
+#Marko Context (MCF)
 
 Projelerinizi yapay zekaya (ChatGPT/Claude) anlatmanın en hızlı yolu.
 
@@ -10,3 +10,7 @@ Projelerinizi yapay zekaya (ChatGPT/Claude) anlatmanın en hızlı yolu.
 
    ---
 *Marko Ecosystem*
+
+
+![çıktı](https://github.com/user-attachments/assets/06cbac89-0554-4de0-b90e-c44e0bef17c8)
+<img width="501" height="615" alt="Çıktr2" src="https://github.com/user-attachments/assets/19796f59-c487-40f5-8cd5-cc61d44c1533" />
